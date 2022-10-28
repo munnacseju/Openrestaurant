@@ -1,2 +1,2 @@
-# Bootstrap-Openrestaurant
+# Openrestaurant
 Basic PHP project 
